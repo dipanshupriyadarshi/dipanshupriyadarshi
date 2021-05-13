@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipanshupriyadarshi01
+- 👋 Hi, I’m @dipanshupriyadarshi
 - 👀 I’m interested in python and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
