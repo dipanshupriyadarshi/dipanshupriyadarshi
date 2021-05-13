@@ -3,10 +3,10 @@
 
 - 👀 I’m interested in **python and web development**
 
-- 🌱 I’m currently learning **Web Devlopment**
-- 
+- 🌱 I’m currently learning **Web Devlopment**    
+
 - 💞️ I’m looking to collaborate on web development
-- 
+  
 - 👨‍💻 My Portfolio [http://dipanshupriyadarshi.in/](http://dipanshupriyadarshi.in/)
 
 - 📫 How to reach me **contact through my email erdipanshupriyadarshi@gmail.com or You can also visit my Portfolio at http://dipanshupriyadarshi.in/**
