@@ -11,7 +11,9 @@
 
 - 📫 How to reach me? You can mail me on **erdipanshupriyadarshi@gmail.com**
 
-- 📄 Know about my experiences [http://dipanshupriyadarshi.in/experience](http://dipanshupriyadarshi.in/experience)
+- 📄 Know about my Experiences [http://dipanshupriyadarshi.in/experience](http://dipanshupriyadarshi.in/experience)
+
+- 📄 Know about my Education [http://dipanshupriyadarshi.in/education](http://dipanshupriyadarshi.in/education)
 
 - ⚡ Fun fact **I think i am an unprecedented learner with an agathokakological mindset.**
 
