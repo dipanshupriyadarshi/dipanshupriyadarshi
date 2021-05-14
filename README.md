@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Priyadarshi</h1>
 <h3 align="center">A passionate frontend developer from India & I would also like to be the forerunner to make technology different from what it is today!</h3>
 
-<img src='https://github.com/dipanshupriyadarshi/dipanshupriyadarshi/blob/9a2240ac62dab5fbc99a66185004b4a8a4bc6156/keyboard.jpeg' alt='website' height='auto'>
-
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 - 👀 I am Interested in **Python & Web Devlopment**
