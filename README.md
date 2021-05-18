@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 👨‍💻 My Portfolio [https://www.dipanshupriyadarshi.in/](https://www.dipanshupriyadarshi.in/)
+- 👨‍💻 My Portfolio [https://dipanshupriyadarshi.in/](https://www.dipanshupriyadarshi.in/)
 
 - 📫 How to reach me? You can mail me on **erdipanshupriyadarshi@gmail.com**
 
-- 📄 Know about my Experiences [https://www.dipanshupriyadarshi.in/experience](https://www.dipanshupriyadarshi.in/experience)
+- 📄 Know about my Experiences [https://dipanshupriyadarshi.in/experience](https://www.dipanshupriyadarshi.in/experience)
 
-- 📄 Know about my Education [https://www.dipanshupriyadarshi.in/education](https://www.dipanshupriyadarshi.in/education)
+- 📄 Know about my Education [https://dipanshupriyadarshi.in/education](https://www.dipanshupriyadarshi.in/education)
 
 - ⚡ Fun fact **I think i am an unprecedented learner with an agathokakological mindset.**
 
